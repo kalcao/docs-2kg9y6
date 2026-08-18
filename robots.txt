@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-bssghr.nuansa138.xyz/sitemap.xml
